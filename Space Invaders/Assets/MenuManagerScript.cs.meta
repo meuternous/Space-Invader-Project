@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e25768c548f6eaa408739a5cbde7b79a
+timeCreated: 1519420411
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonPress: {fileID: 8300000, guid: 5aa4d759d9b478344bd4865c87fa255b, type: 3}
+  - GameMenu: {instanceID: 0}
+  - MainMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
